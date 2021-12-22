@@ -1,0 +1,119 @@
+.body
+{
+    background-color: #3a8ad4;
+}
+.navbar
+{
+    background: white;
+    border-color: #ffd93b;
+    border-width: 3px;
+    border-radius: 8px;
+    margin: 27px auto 0;
+    height: 60px;
+    font-family: monospace;
+    text-align: center;
+    font-size:x-large;
+    text-decoration: none;
+    color: #3a8ad4;
+}
+.navbar li
+{
+display: inline-block;
+list-style: none;
+height: 60px;
+line-height: 60px;
+padding: 0 40px;
+text-decoration: none;
+
+}
+
+.navbar li:hover
+{
+    background: #ffd93b;
+    text-decoration: none;
+}
+
+.navbar-link {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+a {color: #3a8ad4;}
+a:visited {color: #3a8ad4;}
+a:hover {color: black;}
+a:active {color: black;}
+
+
+
+  .h1 {
+      color: white;
+      font-size: x-large;
+      font-family: monospace;
+    text-align: center;
+    
+      
+  }
+  .button{
+    background: #ffd93b; 
+    border-radius: 6px; 
+    padding: 15px; 
+    cursor: pointer; 
+    color: #fff;
+     border: none; font-size: 16px;
+     font-family: monospace;
+     font-weight: bolder;
+     text-shadow: 0px 0px 0px #3a8ad4,
+    1.3px 1.3px 0px black,
+    0px 0px 0px #666;
+  }
+  .button:hover
+  {background: #a548ff;}
+  .button:active {background-color: #a548ff;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);}
+
+.Trtex 
+{
+    font-family: monospace;
+    color: white;
+    font-weight: bold;
+    text-align:center;
+    font-size: xx-large;
+    text-shadow: -1px -1px 0px #3a8ad4,
+    3px 3px 0px black,
+    6px 6px 0px #ffd93b; 
+
+}
+.Trtex1 {
+    font-family: monospace;
+    color: white;
+    font-weight: bold;
+    text-align:center;
+    font-size:x-large;
+    text-shadow: -1px -1px 0px #3a8ad4,
+    2px 2px 0px black,
+    0px 0px 0px #666;
+}
+.h2 {
+    color: #3a8ad4;
+    font-size: large;
+    font-family: monospace;
+
+  left: 50%;
+    margin-right: -50%;
+margin-left: -50%;    
+text-align: center;
+background: white;
+}
+
+.teste {
+    
+    color: white;
+    font-size: x-large;
+    font-family: monospace;
+  text-align: center;
+        text-shadow: -1px -1px 0px #3a8ad4,
+          3px 3px 0px black,
+          6px 6px 0px #ffd93b; }
+      
